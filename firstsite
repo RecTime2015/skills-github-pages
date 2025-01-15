@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Jondo</title>
+
+</head>    
+
+<body>
+
+	
+	<!-- კომენტარის გასაკეთებლად გამოიყენეთ Ctrl და  / ნიშანი ერთად -->
+	<h1> Dedamiwebi ! ! ! </h1>
+
+<b>Witels daachire, ogond bombebisas ara!</b>
+<!-- //ბოლდ(BOLD) შრიფრი ორნაირად - მეორე ჯობია ! თანამედროვეა და მორგებული ყველაფერზე !  -->
+<p> <strong>Witels daachire, ogond bombebisas ara!</strong> </p>
+ 
+ <!-- არაორდირებული ლისტი როგორ გავაკეთოთ <ul> და თითო პუნქტისთვის <li> list iitem -->
+
+<h2> Chemi Gafuchebuli Ubani </h2>
+	<ul> 
+		<li> Didube </li>
+		<li> Weretel </li>
+		<li> Kedias asaxvevi</li>
+		<li> Dangreuli gza</li>
+
+	</ul>
+
+
+	<!-- სურათის ასატვირთად ვიიყენებთ img თანსართს src= "ვსვავთ სურათთან მიისასვლელ გზას (ან სურათს თუ იქვეა) alt="აღწერა" wiidt=""სიგანეში შემცირება გაზრდა პიქსელებით -->
+
+	<img src="Didubis_Ormo.png" alt="gasaketebeli ormo didubeshi" width="500" />
+
+
+
+<!-- ორდირებული (დანომვრით) ლისტი როგორ გავაკეთოთ <ol> და თითო პუნქტისთვის <li> list iitem -->
+
+<h2> Chemi Gafuchebuli Ubnis GASAKETEBLAD </h2>
+	<ol> 
+		<li> Saqartvelo </li>
+		<li> Tbilis </li>
+		<li> Tsereteli</li>
+		<li> Kaladze gamodii!</li>
+
+	</ol>
+	
+
+		<h3> Italiebi ! ! ! </h3>
+		<p> <i>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </i> </p>
+		<!-- //იტალიკ(ITALIC) შრიფრი ორნაირად - მეორე ჯობია ! თანამედროვეა და მორგებული ყველაფერზე !  -->
+		<p> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </em> </p>
+
+
+
+		<p> 
+		What is Lorem Ipsum? </p> 
+
+		<p> 
+		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+		<!-- //ბრეიქი, ახალი ხაზიდან იწყებს ისე რო პარაგრაფის გამოტოვება არ დაგვჭირდეს. -->
+		<br/> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+		
+
+		</p>
+			<h3> Milanebii ! ! ! </h3>
+
+
+			<p> <i>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </i> </p>
+
+
+				<h4> Koncertebi ! ! ! </h4>
+				
+					<h5> Green Dayebi ! ! ! </h5>
+
+						<h6> Komos Tbebi ! ! ! </h6>	
+
+
+
+			<!--- MP4, WebM, and Ogg -->
+
+					<!--- control ის მაგივრად autoplay ლუპზე დააყენებს ასევე შეგიძლია loop დამატო- თუ controls muted დაუმატებ, ჩუმად ქნება-->	
+					<p> Episode 1  </p>
+		<p> <video controls src="aom shesavali.mp4" width="500"> </p>
+		</video>
+		<p> Episode 2  </p>
+		<p> <video controls src="AOM Eugupt Tutoriial.mp4" width="600"> </p>
+
+		</video>
+
+		<p> Episode 3  </p>
+
+
+			<!--- https://www.youtube.com/watch?v=ly36kn0ug4k იუთუბიიდან ან სხვა ოპლატფორმიდან ამოაკოდიირე და ჩასვი აქ, და გადმოვა ვიდეო, შემდეგ ჩაასწორებ -->	
+		<p> 
+			<iframe id="odysee-iframe" style="width:40%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/ep-1-TMNT:f?r=4veNFNcuAuq5ph7gNYUzWexi17EnifsZ" allowfullscreen></iframe>
+
+		</video> </p>
+
+</body>
+
+
+</html>
